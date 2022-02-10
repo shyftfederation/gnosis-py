@@ -145,6 +145,8 @@ class EthereumNetwork(Enum):
     GEN = 10101
     MTT = 16000
     MTTTEST_DEVNET = 16001
+    SHYFT = 7341
+    SHYFT_TESTNET = 11437
     GO_TESTNET = 31337
     FSN = 32659
     NRG = 39797
